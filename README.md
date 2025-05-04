@@ -16,3 +16,4 @@ Convert speech to text.
 Process text to determine intent/response.
 Generate a reply and convert it to audio.
 Play the audio response.
+use .env file for environment setup with groq api
